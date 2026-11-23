@@ -2,821 +2,903 @@ window.VIDEOS = [
  {
   "cat": "Dilawer",
   "title": "Naval Mart Promoo",
-  "src": "Asfahan Porfolio/Dilawer/Naval Mart Promoo.mp4",
+  "src": "videos/46a03ab24f1f.mp4",
   "thumb": "assets/thumbs/46a03ab24f1f.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 138.9,
-  "mb": 174.4
+  "mb": 174.4,
+  "orig": "Asfahan Porfolio/Dilawer/Naval Mart Promoo.mp4"
  },
  {
   "cat": "Foodography",
   "title": "final shani",
-  "src": "Asfahan Porfolio/Foodography/final shani.mp4",
+  "src": "videos/917eb0753762.mp4",
   "thumb": "assets/thumbs/917eb0753762.jpg",
   "w": 2160,
   "h": 3840,
   "dur": 37.9,
-  "mb": 47.3
+  "mb": 47.3,
+  "orig": "Asfahan Porfolio/Foodography/final shani.mp4"
  },
  {
   "cat": "Foodography",
   "title": "final",
-  "src": "Asfahan Porfolio/Foodography/final.mp4",
+  "src": "videos/d15829ff4a7c.mp4",
   "thumb": "assets/thumbs/d15829ff4a7c.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 55.4,
-  "mb": 317.1
+  "mb": 317.1,
+  "orig": "Asfahan Porfolio/Foodography/final.mp4"
  },
  {
   "cat": "Foodography",
   "title": "korangi 4 final",
-  "src": "Asfahan Porfolio/Foodography/korangi 4 final.mp4",
+  "src": "videos/18998d634f16.mp4",
   "thumb": "assets/thumbs/18998d634f16.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 89.8,
-  "mb": 116.0
+  "mb": 116.0,
+  "orig": "Asfahan Porfolio/Foodography/korangi 4 final.mp4"
  },
  {
   "cat": "Foodography",
   "title": "mustaq",
-  "src": "Asfahan Porfolio/Foodography/mustaq.mp4",
+  "src": "videos/7f4b81ad8f0b.mp4",
   "thumb": "assets/thumbs/7f4b81ad8f0b.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 52.7,
-  "mb": 67.6
+  "mb": 67.6,
+  "orig": "Asfahan Porfolio/Foodography/mustaq.mp4"
  },
  {
   "cat": "Gaming videos",
   "title": "2022-10-09 22-04-27",
-  "src": "Asfahan Porfolio/Gaming videos/2022-10-09 22-04-27.mp4",
+  "src": "videos/4ee73bb41eda.mp4",
   "thumb": "assets/thumbs/4ee73bb41eda.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 74.7,
-  "mb": 131.6
+  "mb": 131.6,
+  "orig": "Asfahan Porfolio/Gaming videos/2022-10-09 22-04-27.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "2",
-  "src": "Asfahan Porfolio/KKPF promo reels/2.mp4",
+  "src": "videos/661db2cbd396.mp4",
   "thumb": "assets/thumbs/661db2cbd396.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 26.0,
-  "mb": 30.6
+  "mb": 30.6,
+  "orig": "Asfahan Porfolio/KKPF promo reels/2.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "ARHAM BHAI REELS",
-  "src": "Asfahan Porfolio/KKPF promo reels/ARHAM BHAI REELS.mp4",
+  "src": "videos/e9d1c098edc5.mp4",
   "thumb": "assets/thumbs/e9d1c098edc5.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 37.0,
-  "mb": 45.1
+  "mb": 45.1,
+  "orig": "Asfahan Porfolio/KKPF promo reels/ARHAM BHAI REELS.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "SHANI PROMO 1",
-  "src": "Asfahan Porfolio/KKPF promo reels/SHANI PROMO 1.mp4",
+  "src": "videos/27bcaaabbff3.mp4",
   "thumb": "assets/thumbs/27bcaaabbff3.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 60.0,
-  "mb": 69.6
+  "mb": 69.6,
+  "orig": "Asfahan Porfolio/KKPF promo reels/SHANI PROMO 1.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "[KKPF] WALIMA PROMO",
-  "src": "Asfahan Porfolio/KKPF promo reels/[KKPF] WALIMA PROMO.mp4",
+  "src": "videos/e8f199a30e48.mp4",
   "thumb": "assets/thumbs/e8f199a30e48.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 185.0,
-  "mb": 224.6
+  "mb": 224.6,
+  "orig": "Asfahan Porfolio/KKPF promo reels/[KKPF] WALIMA PROMO.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "[KKPF] barat Promo",
-  "src": "Asfahan Porfolio/KKPF promo reels/[KKPF] barat Promo.mp4",
+  "src": "videos/955497e1c4b0.mp4",
   "thumb": "assets/thumbs/955497e1c4b0.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 175.4,
-  "mb": 216.9
+  "mb": 216.9,
+  "orig": "Asfahan Porfolio/KKPF promo reels/[KKPF] barat Promo.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "[kkpf] wajahat reel 2",
-  "src": "Asfahan Porfolio/KKPF promo reels/[kkpf] wajahat reel 2.mp4",
+  "src": "videos/d673da47b663.mp4",
   "thumb": "assets/thumbs/d673da47b663.jpg",
   "w": 720,
   "h": 1280,
   "dur": 67.0,
-  "mb": 82.1
+  "mb": 82.1,
+  "orig": "Asfahan Porfolio/KKPF promo reels/[kkpf] wajahat reel 2.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "[kkpf] wajahat reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/[kkpf] wajahat reel.mp4",
+  "src": "videos/a1e4e496da3d.mp4",
   "thumb": "assets/thumbs/a1e4e496da3d.jpg",
   "w": 720,
   "h": 1280,
   "dur": 26.0,
-  "mb": 30.7
+  "mb": 30.7,
+  "orig": "Asfahan Porfolio/KKPF promo reels/[kkpf] wajahat reel.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "aneela reel 2",
-  "src": "Asfahan Porfolio/KKPF promo reels/aneela reel 2.mp4",
+  "src": "videos/aff336f27530.mp4",
   "thumb": "assets/thumbs/aff336f27530.jpg",
   "w": 720,
   "h": 1280,
   "dur": 43.6,
-  "mb": 54.1
+  "mb": 54.1,
+  "orig": "Asfahan Porfolio/KKPF promo reels/aneela reel 2.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "aneela reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/aneela reel.mp4",
+  "src": "videos/7276568b206a.mp4",
   "thumb": "assets/thumbs/7276568b206a.jpg",
   "w": 576,
   "h": 1024,
   "dur": 28.4,
-  "mb": 35.4
+  "mb": 35.4,
+  "orig": "Asfahan Porfolio/KKPF promo reels/aneela reel.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "aneela reel3",
-  "src": "Asfahan Porfolio/KKPF promo reels/aneela reel3.mp4",
+  "src": "videos/cfa7656378bf.mp4",
   "thumb": "assets/thumbs/cfa7656378bf.jpg",
   "w": 720,
   "h": 1280,
   "dur": 25.5,
-  "mb": 31.2
+  "mb": 31.2,
+  "orig": "Asfahan Porfolio/KKPF promo reels/aneela reel3.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "aneela walima reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/aneela walima reel.mp4",
+  "src": "videos/9829e9f5bad3.mp4",
   "thumb": "assets/thumbs/9829e9f5bad3.jpg",
   "w": 720,
   "h": 1280,
   "dur": 27.4,
-  "mb": 33.9
+  "mb": 33.9,
+  "orig": "Asfahan Porfolio/KKPF promo reels/aneela walima reel.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "asma  reel 2",
-  "src": "Asfahan Porfolio/KKPF promo reels/asma  reel 2.mp4",
+  "src": "videos/b96802ccb87f.mp4",
   "thumb": "assets/thumbs/b96802ccb87f.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 46.1,
-  "mb": 56.2
+  "mb": 56.2,
+  "orig": "Asfahan Porfolio/KKPF promo reels/asma  reel 2.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "duaa reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/duaa reel.mp4",
+  "src": "videos/5563784bb707.mp4",
   "thumb": "assets/thumbs/5563784bb707.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 13.6,
-  "mb": 17.0
+  "mb": 17.0,
+  "orig": "Asfahan Porfolio/KKPF promo reels/duaa reel.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "hammad video",
-  "src": "Asfahan Porfolio/KKPF promo reels/hammad video.mp4",
+  "src": "videos/083a06bdcff2.mp4",
   "thumb": "assets/thumbs/083a06bdcff2.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 37.1,
-  "mb": 41.1
+  "mb": 41.1,
+  "orig": "Asfahan Porfolio/KKPF promo reels/hammad video.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "hina reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/hina reel.mp4",
+  "src": "videos/c4d2b17a5b51.mp4",
   "thumb": "assets/thumbs/c4d2b17a5b51.jpg",
   "w": 720,
   "h": 1280,
   "dur": 67.6,
-  "mb": 56.8
+  "mb": 56.8,
+  "orig": "Asfahan Porfolio/KKPF promo reels/hina reel.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/reel.mp4",
+  "src": "videos/e15d11b5b097.mp4",
   "thumb": "assets/thumbs/e15d11b5b097.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 30.6,
-  "mb": 38.3
+  "mb": 38.3,
+  "orig": "Asfahan Porfolio/KKPF promo reels/reel.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "shani reel 2",
-  "src": "Asfahan Porfolio/KKPF promo reels/shani reel 2.mp4",
+  "src": "videos/bf447bc9edcc.mp4",
   "thumb": "assets/thumbs/bf447bc9edcc.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 19.2,
-  "mb": 24.0
+  "mb": 24.0,
+  "orig": "Asfahan Porfolio/KKPF promo reels/shani reel 2.mp4"
  },
  {
   "cat": "KKPF promo reels",
   "title": "shani reel",
-  "src": "Asfahan Porfolio/KKPF promo reels/shani reel.mp4",
+  "src": "videos/7709f60394fe.mp4",
   "thumb": "assets/thumbs/7709f60394fe.jpg",
   "w": 720,
   "h": 1280,
   "dur": 24.8,
-  "mb": 21.4
+  "mb": 21.4,
+  "orig": "Asfahan Porfolio/KKPF promo reels/shani reel.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "14 AQUST",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/14 AQUST.mp4",
+  "src": "videos/f46dd9af185e.mp4",
   "thumb": "assets/thumbs/f46dd9af185e.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 55.9,
-  "mb": 68.6
+  "mb": 68.6,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/14 AQUST.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Afahan Reel",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Afahan Reel.mp4",
+  "src": "videos/78711ac0969d.mp4",
   "thumb": "assets/thumbs/78711ac0969d.jpg",
   "w": 720,
   "h": 1280,
   "dur": 11.4,
-  "mb": 11.2
+  "mb": 11.2,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Afahan Reel.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Asfahan Reel",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Asfahan Reel.mp4",
+  "src": "videos/f144c4d3d5cb.mp4",
   "thumb": "assets/thumbs/f144c4d3d5cb.jpg",
   "w": 720,
   "h": 1280,
   "dur": 20.0,
-  "mb": 19.5
+  "mb": 19.5,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Asfahan Reel.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Iqrar ul hassan AD learfinfy",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Iqrar ul hassan AD learfinfy.mp4",
+  "src": "videos/4f9183999382.mp4",
   "thumb": "assets/thumbs/4f9183999382.jpg",
   "w": 3840,
   "h": 2160,
   "dur": 45.7,
-  "mb": 59.2
+  "mb": 59.2,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Iqrar ul hassan AD learfinfy.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "KEY NAMES",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/KEY NAMES.mp4",
+  "src": "videos/a59855e83785.mp4",
   "thumb": "assets/thumbs/a59855e83785.jpg",
   "w": 720,
   "h": 1280,
   "dur": 11.1,
-  "mb": 2.7
+  "mb": 2.7,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/KEY NAMES.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Parents school se aakar itna Irritated kyu rehta ha",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Parents school se aakar itna Irritated kyu rehta ha.mp4",
+  "src": "videos/c3ef47d13500.mp4",
   "thumb": "assets/thumbs/c3ef47d13500.jpg",
   "w": 720,
   "h": 1280,
   "dur": 14.2,
-  "mb": 15.6
+  "mb": 15.6,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Parents school se aakar itna Irritated kyu rehta ha.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Pass bowl with someone in academy",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Pass bowl with someone in academy.mp4",
+  "src": "videos/15eccd93be72.mp4",
   "thumb": "assets/thumbs/15eccd93be72.jpg",
   "w": 2160,
   "h": 3840,
   "dur": 143.1,
-  "mb": 173.7
+  "mb": 173.7,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Pass bowl with someone in academy.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Raza Reel",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Raza Reel.mp4",
+  "src": "videos/006d9b690a3c.mp4",
   "thumb": "assets/thumbs/006d9b690a3c.jpg",
   "w": 1440,
   "h": 2560,
   "dur": 84.5,
-  "mb": 109.8
+  "mb": 109.8,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Raza Reel.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "Sir ceo Reel",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/Sir ceo Reel.mp4",
+  "src": "videos/0c29f8c58273.mp4",
   "thumb": "assets/thumbs/0c29f8c58273.jpg",
   "w": 1440,
   "h": 2560,
   "dur": 39.8,
-  "mb": 51.8
+  "mb": 51.8,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/Sir ceo Reel.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "WANIA feedback",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/WANIA feedback.mp4",
+  "src": "videos/471e8d144a98.mp4",
   "thumb": "assets/thumbs/471e8d144a98.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 37.4,
-  "mb": 48.4
+  "mb": 48.4,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/WANIA feedback.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "ashna feedback 2",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/ashna feedback 2.mp4",
+  "src": "videos/feef694e3af2.mp4",
   "thumb": "assets/thumbs/feef694e3af2.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 35.1,
-  "mb": 44.2
+  "mb": 44.2,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/ashna feedback 2.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "cap (1)",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/cap (1).mp4",
+  "src": "videos/e9575b44fc76.mp4",
   "thumb": "assets/thumbs/e9575b44fc76.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 24.5,
-  "mb": 69.5
+  "mb": 69.5,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/cap (1).mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "certificate",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/certificate.mp4",
+  "src": "videos/8e81dd31095f.mp4",
   "thumb": "assets/thumbs/8e81dd31095f.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 15.0,
-  "mb": 17.2
+  "mb": 17.2,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/certificate.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "designer 4",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/designer 4.mp4",
+  "src": "videos/5c6d41f5d12a.mp4",
   "thumb": "assets/thumbs/5c6d41f5d12a.jpg",
   "w": 2170,
   "h": 2162,
   "dur": 9.0,
-  "mb": 10.4
+  "mb": 10.4,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/designer 4.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "dhoond lo phir",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/dhoond lo phir.mp4",
+  "src": "videos/1881e9f98733.mp4",
   "thumb": "assets/thumbs/1881e9f98733.jpg",
   "w": 720,
   "h": 1280,
   "dur": 10.9,
-  "mb": 8.8
+  "mb": 8.8,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/dhoond lo phir.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "feedback ALL",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/feedback ALL.mp4",
+  "src": "videos/f8a19468acaf.mp4",
   "thumb": "assets/thumbs/f8a19468acaf.jpg",
   "w": 1080,
   "h": 1350,
   "dur": 99.3,
-  "mb": 127.7
+  "mb": 127.7,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/feedback ALL.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "hamna feedback",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/hamna feedback.mp4",
+  "src": "videos/0f2e244c8526.mp4",
   "thumb": "assets/thumbs/0f2e244c8526.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 27.3,
-  "mb": 35.4
+  "mb": 35.4,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/hamna feedback.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "jeery",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/jeery.mp4",
+  "src": "videos/f16d73b1b5f6.mp4",
   "thumb": "assets/thumbs/f16d73b1b5f6.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 5.0,
-  "mb": 5.0
+  "mb": 5.0,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/jeery.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "khizer reel2",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/khizer reel2.mp4",
+  "src": "videos/e610eca605eb.mp4",
   "thumb": "assets/thumbs/e610eca605eb.jpg",
   "w": 1440,
   "h": 2560,
   "dur": 111.9,
-  "mb": 144.3
+  "mb": 144.3,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/khizer reel2.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "learnify independence",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/learnify independence.mp4",
+  "src": "videos/dd0c4d9c2824.mp4",
   "thumb": "assets/thumbs/dd0c4d9c2824.jpg",
   "w": 1920,
   "h": 1080,
   "dur": 98.2,
-  "mb": 126.5
+  "mb": 126.5,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/learnify independence.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "new yaer",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/new yaer.mp4",
+  "src": "videos/3cc82074f92c.mp4",
   "thumb": "assets/thumbs/3cc82074f92c.jpg",
   "w": 1280,
   "h": 720,
   "dur": 8.0,
-  "mb": 9.3
+  "mb": 9.3,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/new yaer.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "new yaer.mp4 2",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/new yaer.mp4 2.mp4",
+  "src": "videos/eacb18e4b5e4.mp4",
   "thumb": "assets/thumbs/eacb18e4b5e4.jpg",
   "w": 1280,
   "h": 720,
   "dur": 8.0,
-  "mb": 9.9
+  "mb": 9.9,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/new yaer.mp4 2.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "noting with u",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/noting with u.mp4",
+  "src": "videos/94caaab65fc2.mp4",
   "thumb": "assets/thumbs/94caaab65fc2.jpg",
   "w": 2160,
   "h": 3840,
   "dur": 16.7,
-  "mb": 13.7
+  "mb": 13.7,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/noting with u.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "sufiyan feedback",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/sufiyan feedback.mp4",
+  "src": "videos/dcc5c9d0b3d4.mp4",
   "thumb": "assets/thumbs/dcc5c9d0b3d4.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 35.5,
-  "mb": 45.9
+  "mb": 45.9,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/sufiyan feedback.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "summer camp",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/summer camp.mp4",
+  "src": "videos/dcf9d7434afc.mp4",
   "thumb": "assets/thumbs/dcf9d7434afc.jpg",
   "w": 480,
   "h": 848,
   "dur": 44.9,
-  "mb": 54.5
+  "mb": 54.5,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/summer camp.mp4"
  },
  {
   "cat": "Learnify Academy Reels",
   "title": "video hit",
-  "src": "Asfahan Porfolio/Learnify Academy Reels/video hit.mp4",
+  "src": "videos/8d544dce8d50.mp4",
   "thumb": "assets/thumbs/8d544dce8d50.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 5.3,
-  "mb": 6.3
+  "mb": 6.3,
+  "orig": "Asfahan Porfolio/Learnify Academy Reels/video hit.mp4"
  },
  {
   "cat": "Motion Graphics",
   "title": "4th tronex",
-  "src": "Asfahan Porfolio/Motion Graphics/4th tronex.mp4",
+  "src": "videos/b57cd25f9b4f.mp4",
   "thumb": "assets/thumbs/b57cd25f9b4f.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 17.9,
-  "mb": 7.1
+  "mb": 7.1,
+  "orig": "Asfahan Porfolio/Motion Graphics/4th tronex.mp4"
  },
  {
   "cat": "Motion Graphics",
   "title": "Motion Graphics 2",
-  "src": "Asfahan Porfolio/Motion Graphics/Motion Graphics 2.mp4",
+  "src": "videos/5b4b31a3707c.mp4",
   "thumb": "assets/thumbs/5b4b31a3707c.jpg",
   "w": 1440,
   "h": 2560,
   "dur": 39.9,
-  "mb": 52.5
+  "mb": 52.5,
+  "orig": "Asfahan Porfolio/Motion Graphics/Motion Graphics 2.mp4"
  },
  {
   "cat": "Motion Graphics",
   "title": "Motion Graphics Final",
-  "src": "Asfahan Porfolio/Motion Graphics/Motion Graphics Final.mp4",
+  "src": "videos/d90e6898391f.mp4",
   "thumb": "assets/thumbs/d90e6898391f.jpg",
   "w": 720,
   "h": 1280,
   "dur": 30.6,
-  "mb": 14.6
+  "mb": 14.6,
+  "orig": "Asfahan Porfolio/Motion Graphics/Motion Graphics Final.mp4"
  },
  {
   "cat": "Motion Graphics",
   "title": "Sir ceo Reel",
-  "src": "Asfahan Porfolio/Motion Graphics/Sir ceo Reel.mp4",
+  "src": "videos/0c29f8c58273.mp4",
   "thumb": "assets/thumbs/0755af31a1a7.jpg",
   "w": 1440,
   "h": 2560,
   "dur": 39.8,
-  "mb": 51.8
+  "mb": 51.8,
+  "orig": "Asfahan Porfolio/Motion Graphics/Sir ceo Reel.mp4"
  },
  {
   "cat": "Motion Graphics",
   "title": "final",
-  "src": "Asfahan Porfolio/Motion Graphics/final.mp4",
+  "src": "videos/8bf7be682485.mp4",
   "thumb": "assets/thumbs/8bf7be682485.jpg",
   "w": 1080,
   "h": 1080,
   "dur": 12.3,
-  "mb": 4.3
+  "mb": 4.3,
+  "orig": "Asfahan Porfolio/Motion Graphics/final.mp4"
  },
  {
   "cat": "Motion Graphics",
   "title": "tronexr 1st video",
-  "src": "Asfahan Porfolio/Motion Graphics/tronexr 1st video.mp4",
+  "src": "videos/e646317cd10d.mp4",
   "thumb": "assets/thumbs/e646317cd10d.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 10.4,
-  "mb": 3.2
+  "mb": 3.2,
+  "orig": "Asfahan Porfolio/Motion Graphics/tronexr 1st video.mp4"
  },
  {
   "cat": "Podcast",
   "title": "Sequence 01",
-  "src": "Asfahan Porfolio/Podcast/Sequence 01.mp4",
+  "src": "videos/233eaf819162.mp4",
   "thumb": "assets/thumbs/233eaf819162.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 740.3,
-  "mb": 911.2
+  "mb": 911.2,
+  "orig": "Asfahan Porfolio/Podcast/Sequence 01.mp4"
  },
  {
   "cat": "Podcast",
   "title": "podcast Full",
-  "src": "Asfahan Porfolio/Podcast/podcast Full.mp4",
+  "src": "videos/7c3fe56c3aaf.mp4",
   "thumb": "assets/thumbs/7c3fe56c3aaf.jpg",
   "w": 848,
   "h": 478,
   "dur": 586.5,
-  "mb": 753.2
+  "mb": 753.2,
+  "orig": "Asfahan Porfolio/Podcast/podcast Full.mp4"
  },
  {
   "cat": "Podcast",
   "title": "raja raza interview .2",
-  "src": "Asfahan Porfolio/Podcast/raja raza interview .2.mp4",
+  "src": "videos/64bf15f2d7ae.mp4",
   "thumb": "assets/thumbs/64bf15f2d7ae.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 26.1,
-  "mb": 34.5
+  "mb": 34.5,
+  "orig": "Asfahan Porfolio/Podcast/raja raza interview .2.mp4"
  },
  {
   "cat": "Podcast",
   "title": "raja raza interview 1",
-  "src": "Asfahan Porfolio/Podcast/raja raza interview 1.mp4",
+  "src": "videos/57ea932335af.mp4",
   "thumb": "assets/thumbs/57ea932335af.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 97.5,
-  "mb": 118.9
+  "mb": 118.9,
+  "orig": "Asfahan Porfolio/Podcast/raja raza interview 1.mp4"
  },
  {
   "cat": "Podcast",
   "title": "raja raza interview 3",
-  "src": "Asfahan Porfolio/Podcast/raja raza interview 3.mp4",
+  "src": "videos/0353d50df55c.mp4",
   "thumb": "assets/thumbs/0353d50df55c.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 54.2,
-  "mb": 66.9
+  "mb": 66.9,
+  "orig": "Asfahan Porfolio/Podcast/raja raza interview 3.mp4"
  },
  {
   "cat": "Podcast",
   "title": "raja raza interview 4@",
-  "src": "Asfahan Porfolio/Podcast/raja raza interview 4@.mp4",
+  "src": "videos/a92a0aebaea9.mp4",
   "thumb": "assets/thumbs/a92a0aebaea9.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 55.0,
-  "mb": 71.1
+  "mb": 71.1,
+  "orig": "Asfahan Porfolio/Podcast/raja raza interview 4@.mp4"
  },
  {
   "cat": "Podcast",
   "title": "raja raza interview 5@",
-  "src": "Asfahan Porfolio/Podcast/raja raza interview 5@.mp4",
+  "src": "videos/d3b9a742eaf4.mp4",
   "thumb": "assets/thumbs/d3b9a742eaf4.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 113.7,
-  "mb": 148.5
+  "mb": 148.5,
+  "orig": "Asfahan Porfolio/Podcast/raja raza interview 5@.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "Arabians Tonka riwa reel 12",
-  "src": "Asfahan Porfolio/Riwa Fragrance/Arabians Tonka riwa reel 12.mp4",
+  "src": "videos/dc12e009e94e.mp4",
   "thumb": "assets/thumbs/dc12e009e94e.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 17.0,
-  "mb": 19.8
+  "mb": 19.8,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/Arabians Tonka riwa reel 12.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "BLOOM REEL 3.",
-  "src": "Asfahan Porfolio/Riwa Fragrance/BLOOM REEL 3..mp4",
+  "src": "videos/a620ad5a39bd.mp4",
   "thumb": "assets/thumbs/a620ad5a39bd.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 40.3,
-  "mb": 50.9
+  "mb": 50.9,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/BLOOM REEL 3..mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "BLOOM REEL 4.",
-  "src": "Asfahan Porfolio/Riwa Fragrance/BLOOM REEL 4..mp4",
+  "src": "videos/682815a8ed8e.mp4",
   "thumb": "assets/thumbs/682815a8ed8e.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 6.3,
-  "mb": 2.0
+  "mb": 2.0,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/BLOOM REEL 4..mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "BLOOM REEl 5",
-  "src": "Asfahan Porfolio/Riwa Fragrance/BLOOM REEl 5.mp4",
+  "src": "videos/fba0c5e23102.mp4",
   "thumb": "assets/thumbs/fba0c5e23102.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 11.9,
-  "mb": 14.8
+  "mb": 14.8,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/BLOOM REEl 5.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "Me & My obsession With Armaf Club Riwa Reel 13",
-  "src": "Asfahan Porfolio/Riwa Fragrance/Me & My obsession With Armaf Club Riwa Reel 13.mp4",
+  "src": "videos/70c17e9d2155.mp4",
   "thumb": "assets/thumbs/70c17e9d2155.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 7.0,
-  "mb": 6.5
+  "mb": 6.5,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/Me & My obsession With Armaf Club Riwa Reel 13.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "Obscura reel 6",
-  "src": "Asfahan Porfolio/Riwa Fragrance/Obscura reel 6.mp4",
+  "src": "videos/11d50e09555f.mp4",
   "thumb": "assets/thumbs/11d50e09555f.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 16.1,
-  "mb": 20.1
+  "mb": 20.1,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/Obscura reel 6.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "Riwa Reel 14",
-  "src": "Asfahan Porfolio/Riwa Fragrance/Riwa Reel 14.mp4",
+  "src": "videos/e4357f4a62f8.mp4",
   "thumb": "assets/thumbs/e4357f4a62f8.jpg",
   "w": 720,
   "h": 1280,
   "dur": 18.6,
-  "mb": 21.3
+  "mb": 21.3,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/Riwa Reel 14.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "Riwa Reel 15",
-  "src": "Asfahan Porfolio/Riwa Fragrance/Riwa Reel 15.mp4",
+  "src": "videos/1074d535e02d.mp4",
   "thumb": "assets/thumbs/1074d535e02d.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 19.2,
-  "mb": 21.2
+  "mb": 21.2,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/Riwa Reel 15.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "aud al riwa 7",
-  "src": "Asfahan Porfolio/Riwa Fragrance/aud al riwa 7.mp4",
+  "src": "videos/514877cb8763.mp4",
   "thumb": "assets/thumbs/514877cb8763.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 15.1,
-  "mb": 17.8
+  "mb": 17.8,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/aud al riwa 7.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "noir reel 9",
-  "src": "Asfahan Porfolio/Riwa Fragrance/noir reel 9.mp4",
+  "src": "videos/c48b17f2824e.mp4",
   "thumb": "assets/thumbs/c48b17f2824e.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 8.4,
-  "mb": 6.6
+  "mb": 6.6,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/noir reel 9.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "reel",
-  "src": "Asfahan Porfolio/Riwa Fragrance/reel.mp4",
+  "src": "videos/56bf1b788068.mp4",
   "thumb": "assets/thumbs/56bf1b788068.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 16.3,
-  "mb": 19.1
+  "mb": 19.1,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/reel.mp4"
  },
  {
   "cat": "Riwa Fragrance",
   "title": "reminder reel 8",
-  "src": "Asfahan Porfolio/Riwa Fragrance/reminder reel 8.mp4",
+  "src": "videos/5cd8a5db82f1.mp4",
   "thumb": "assets/thumbs/5cd8a5db82f1.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 12.9,
-  "mb": 9.9
+  "mb": 9.9,
+  "orig": "Asfahan Porfolio/Riwa Fragrance/reminder reel 8.mp4"
  },
  {
   "cat": "Trade Sync review",
   "title": "final",
-  "src": "Asfahan Porfolio/Trade Sync review/final.mp4",
+  "src": "videos/7ff62a3bf695.mp4",
   "thumb": "assets/thumbs/7ff62a3bf695.jpg",
   "w": 2160,
   "h": 3840,
   "dur": 21.6,
-  "mb": 61.8
+  "mb": 61.8,
+  "orig": "Asfahan Porfolio/Trade Sync review/final.mp4"
  },
  {
   "cat": "Tronex Solutoin",
   "title": "4th tronex",
-  "src": "Asfahan Porfolio/Tronex Solutoin/4th tronex.mp4",
+  "src": "videos/b57cd25f9b4f.mp4",
   "thumb": "assets/thumbs/36fab8d4827a.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 17.9,
-  "mb": 7.1
+  "mb": 7.1,
+  "orig": "Asfahan Porfolio/Tronex Solutoin/4th tronex.mp4"
  },
  {
   "cat": "Tronex Solutoin",
   "title": "final",
-  "src": "Asfahan Porfolio/Tronex Solutoin/final.mp4",
+  "src": "videos/8bf7be682485.mp4",
   "thumb": "assets/thumbs/fc249cc9cc98.jpg",
   "w": 1080,
   "h": 1080,
   "dur": 12.3,
-  "mb": 4.3
+  "mb": 4.3,
+  "orig": "Asfahan Porfolio/Tronex Solutoin/final.mp4"
  },
  {
   "cat": "Tronex Solutoin",
   "title": "tronexr 1st video",
-  "src": "Asfahan Porfolio/Tronex Solutoin/tronexr 1st video.mp4",
+  "src": "videos/e646317cd10d.mp4",
   "thumb": "assets/thumbs/ee6d6e28b970.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 10.4,
-  "mb": 3.2
+  "mb": 3.2,
+  "orig": "Asfahan Porfolio/Tronex Solutoin/tronexr 1st video.mp4"
  },
  {
   "cat": "Tronex Solutoin",
   "title": "yai bhi meri galdi hai 3th",
-  "src": "Asfahan Porfolio/Tronex Solutoin/yai bhi meri galdi hai 3th.mp4",
+  "src": "videos/d39ceed78a53.mp4",
   "thumb": "assets/thumbs/d39ceed78a53.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 11.5,
-  "mb": 14.5
+  "mb": 14.5,
+  "orig": "Asfahan Porfolio/Tronex Solutoin/yai bhi meri galdi hai 3th.mp4"
  },
  {
   "cat": "bank work",
   "title": "3",
-  "src": "Asfahan Porfolio/bank work/3.mp4",
+  "src": "videos/24f186bb0336.mp4",
   "thumb": "assets/thumbs/24f186bb0336.jpg",
   "w": 1080,
   "h": 1350,
   "dur": 23.5,
-  "mb": 28.1
+  "mb": 28.1,
+  "orig": "Asfahan Porfolio/bank work/3.mp4"
  },
  {
   "cat": "food",
   "title": "food reell",
-  "src": "Asfahan Porfolio/food/food reell.mp4",
+  "src": "videos/4d18978e0e2a.mp4",
   "thumb": "assets/thumbs/4d18978e0e2a.jpg",
   "w": 1080,
   "h": 1920,
   "dur": 30.5,
-  "mb": 38.6
+  "mb": 38.6,
+  "orig": "Asfahan Porfolio/food/food reell.mp4"
  }
 ];

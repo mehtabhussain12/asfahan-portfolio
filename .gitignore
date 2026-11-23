@@ -1,7 +1,6 @@
-# Raw video files (5.8 GB) - too large for GitHub, host separately
+# Raw original videos (5.8 GB) - web versions live in videos/
 Asfahan Porfolio/
-*.mp4
-!assets/*.mp4
+*.part.mp4
 
 # OS files
 Thumbs.db

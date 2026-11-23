@@ -44,7 +44,7 @@ const fmtDur = s => { s=Math.round(s); const m=Math.floor(s/60); return m+":"+St
 const seen = new Set();
 const DATA = [];
 for (const v of window.VIDEOS){
-  const folder = v.src.split("/")[1];
+  const folder = (v.orig || v.src).split("/")[1];
   const m = MAP[folder] || {cat:folder, client:folder};
   const key = v.title.toLowerCase()+"|"+v.dur;
   if (seen.has(key)) continue; seen.add(key);
