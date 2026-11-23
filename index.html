@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Asfahan — Video Editor</title>
+<meta name="description" content="Video editing portfolio of Asfahan — wedding films, brand reels, motion graphics, podcasts and more.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav id="nav">
+  <div class="wrap">
+    <a href="#top" class="logo"><span class="logo-mark">▶</span>ASFAHAN</a>
+    <ul>
+      <li><a href="#showreel">Showreel</a></li>
+      <li><a href="#work">Work</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+    <a href="#contact" class="btn btn-primary btn-sm">Hire Me</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<header class="hero" id="top">
+  <img class="hero-img" src="assets/hero-asfahan.jpg" alt="Asfahan — Video Editor portfolio" fetchpriority="high">
+  <h1 class="sr-only">Asfahan — Video Editor</h1>
+  <div class="hero-cta">
+    <div class="cta">
+      <a href="#showreel" class="btn btn-primary">▶ Watch Showreel</a>
+      <a href="#contact" class="btn btn-ghost">Let's Collaborate</a>
+    </div>
+  </div>
+</header>
+
+<!-- STATS -->
+<div class="wrap">
+  <div class="stats reveal">
+    <div class="stat"><b data-count="edits">0</b><span>Edits Delivered</span></div>
+    <div class="stat"><b data-count="clients">0</b><span>Brands &amp; Clients</span></div>
+    <div class="stat"><b data-count="cats">0</b><span>Content Styles</span></div>
+    <div class="stat"><b data-count="mins">0</b><span>Minutes Edited</span></div>
+  </div>
+</div>
+
+<!-- SHOWREEL / FEATURED -->
+<section id="showreel" class="showreel">
+  <div class="glow glow-r"></div>
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div>
+        <div class="kicker"><i>01</i> Featured Edit</div>
+        <h2 class="display">On the <em>Timeline</em></h2>
+      </div>
+      <p>A cinematic wedding promo, cut on the beat with color grading and sound design. Press play.</p>
+    </div>
+
+    <div class="editor reveal">
+      <div class="editor-bar">
+        <span class="dots"><i></i><i></i><i></i></span>
+        <span class="file" id="featName">Barat Promo.mp4</span>
+        <span class="tc" id="featTC">00:00:00:00</span>
+      </div>
+      <div class="viewer">
+        <div class="vf"><i></i><i></i><i></i><i></i></div>
+        <div class="rec"><b></b>REC</div>
+        <video id="featVideo" playsinline preload="none"></video>
+        <button class="big-play" id="featPlay" aria-label="Play featured video"><svg viewBox="0 0 24 24"><path d="M7 4.5v15l13-7.5z"/></svg></button>
+      </div>
+      <div class="timeline" id="timeline">
+        <div class="ruler" id="ruler"></div>
+        <div class="track"><span class="lbl">V1</span><div class="clips" id="clipsV"></div></div>
+        <div class="track"><span class="lbl">A1</span><div class="wave"></div></div>
+        <div class="playhead" id="playhead"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WORK -->
+<section id="work" class="work">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div>
+        <div class="kicker"><i>02</i> Selected Work</div>
+        <h2 class="display">The Reel <em>Library</em></h2>
+      </div>
+      <p>Every edit sorted by style. Hover a card to preview, click to watch the full video.</p>
+    </div>
+    <div class="jump" id="jump"></div>
+  </div>
+  <div id="rows"></div>
+</section>
+
+<!-- CLIENTS -->
+<section class="clients">
+  <p class="clients-lbl">Trusted by brands &amp; creators</p>
+  <div class="marquee" id="marquee"></div>
+</section>
+
+<!-- SERVICES -->
+<section class="services" id="services">
+  <div class="glow glow-l"></div>
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div>
+        <div class="kicker"><i>03</i> What I Do</div>
+        <h2 class="display">Services</h2>
+      </div>
+      <p>From raw footage to a finished, platform-ready edit, in vertical or horizontal.</p>
+    </div>
+    <div class="bento">
+      <a href="#row-wedding-films" class="svc big reveal" data-cat="Wedding Films"><div class="svc-bg"></div><div class="svc-c"><span class="n">01</span><h3>Wedding Films &amp; Promos</h3><p>Cinematic barat, walima and couple reels with music-synced cuts and rich color grading.</p></div></a>
+      <a href="#row-product-fragrance" class="svc reveal" data-cat="Product & Fragrance"><div class="svc-bg"></div><div class="svc-c"><span class="n">02</span><h3>Brand &amp; Product Ads</h3><p>Fragrance and product reels that look premium and sell.</p></div></a>
+      <a href="#row-education-reels" class="svc reveal" data-cat="Education Reels"><div class="svc-bg"></div><div class="svc-c"><span class="n">03</span><h3>Short-form Reels</h3><p>Hooks in the first 2 seconds: captions, SFX, transitions.</p></div></a>
+      <a href="#row-motion-graphics" class="svc wide reveal" data-cat="Motion Graphics"><div class="svc-bg"></div><div class="svc-c"><span class="n">04</span><h3>Motion Graphics</h3><p>Titles, logo reveals and kinetic typography.</p></div></a>
+      <a href="#row-podcasts" class="svc wide reveal" data-cat="Podcasts"><div class="svc-bg"></div><div class="svc-c"><span class="n">05</span><h3>Podcasts &amp; Interviews</h3><p>Multi-cam edits plus vertical clips for social.</p></div></a>
+      <a href="#row-food" class="svc wide reveal" data-cat="Food"><div class="svc-bg"></div><div class="svc-c"><span class="n">06</span><h3>Food &amp; Restaurant Content</h3><p>Mouth-watering food reels and restaurant reviews that make people hungry.</p></div></a>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section class="process">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div>
+        <div class="kicker"><i>04</i> Workflow</div>
+        <h2 class="display">How I <em>Work</em></h2>
+      </div>
+    </div>
+    <div class="steps">
+      <div class="step reveal"><span class="t">00:00</span><h3>Brief</h3><p>We talk about your goal, audience, platform and reference style.</p></div>
+      <div class="step reveal"><span class="t">00:15</span><h3>Rough Cut</h3><p>I build the story, pick the best shots and lock the pacing to music.</p></div>
+      <div class="step reveal"><span class="t">00:30</span><h3>Polish</h3><p>Color grade, sound design, captions, graphics and transitions.</p></div>
+      <div class="step reveal"><span class="t">00:45</span><h3>Deliver</h3><p>Revisions, then export in every format you need: Reels, Shorts, YouTube.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="about" id="about">
+  <div class="wrap">
+    <div class="portrait reveal">
+      <div class="vf"><i></i><i></i><i></i><i></i></div>
+      <img src="assets/asfahan-portrait.jpg" alt="Asfahan, video editor" loading="lazy">
+      <div class="p-tag"><b></b> Asfahan · Editor</div>
+    </div>
+    <div class="about-txt reveal">
+      <div class="kicker"><i>05</i> About Me</div>
+      <h2 class="display">Hi, I'm <em>Asfahan.</em></h2>
+      <p class="lead">I turn raw footage into content people actually stop and watch.</p>
+      <p>I've edited for wedding studios, fragrance brands, academies, restaurants, tech companies and podcasters. Each has its own style, pace and audience. My focus is strong hooks, beat-matched cuts, clean captions and color that sets the mood.</p>
+      <div class="apps">
+        <div class="app pr">Pr<small>Premiere Pro</small></div>
+        <div class="app ae">Ae<small>After Effects</small></div>
+        <div class="app ps">Ps<small>Photoshop</small></div>
+        <div class="app dv"><svg viewBox="0 0 24 24"><circle cx="12" cy="7.5" r="4.5" fill="#e9a23b"/><circle cx="7.5" cy="15" r="4.5" fill="#3aa1e0" opacity=".9"/><circle cx="16.5" cy="15" r="4.5" fill="#e0457b" opacity=".9"/></svg><small>DaVinci Resolve</small></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section class="contact" id="contact">
+  <div class="mosaic" id="mosaic"></div>
+  <div class="wrap reveal">
+    <div class="kicker center">Got Footage?</div>
+    <h2 class="display">Let's make it<br><em>unskippable.</em></h2>
+    <p>Send me your project details and I'll get back with ideas, timeline and pricing.</p>
+    <div class="links" id="contactLinks"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span class="logo"><span class="logo-mark">▶</span>ASFAHAN</span>
+    <span>© <span id="yr"></span> Asfahan. Video Editor &amp; Motion Designer</span>
+    <a href="#top">Back to top ↑</a>
+  </div>
+</footer>
+
+<!-- LIGHTBOX -->
+<div class="lb" id="lb">
+  <button class="x" id="lbClose" aria-label="Close">✕</button>
+  <button class="nav-btn prev" id="lbPrev" aria-label="Previous">‹</button>
+  <video id="lbVideo" controls playsinline></video>
+  <button class="nav-btn next" id="lbNext" aria-label="Next">›</button>
+  <div class="cap"><h4 id="lbTitle"></h4><span id="lbSub"></span></div>
+</div>
+
+<script src="assets/videos.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
