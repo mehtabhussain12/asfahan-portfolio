@@ -1,6 +1,6 @@
 /* ===== EDIT YOUR CONTACT DETAILS HERE (leave "" to hide) ===== */
 const CONTACT = {
-  whatsapp: "",   // e.g. "923001234567"  (country code, no +)
+  whatsapp: "923315692267",
   email: "",      // e.g. "asfahan@email.com"
   instagram: "fighterxpr0_yt",
   linkedin: ""    // full URL
