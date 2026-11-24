@@ -68,7 +68,16 @@
       <div class="viewer">
         <div class="vf"><i></i><i></i><i></i><i></i></div>
         <div class="rec"><b></b>REC</div>
-        <video id="featVideo" playsinline preload="none"></video>
+        <div class="stage" id="featStage">
+          <video id="featVideo" playsinline preload="none" controlslist="nodownload" disablepictureinpicture></video>
+          <div class="pc">
+            <button class="pc-btn pc-play" aria-label="Play/Pause"><svg class="i-play" viewBox="0 0 24 24"><path d="M7 4.5v15l13-7.5z"/></svg><svg class="i-pause" viewBox="0 0 24 24"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg></button>
+            <span class="pc-t">0:00 / 0:00</span>
+            <div class="pc-seek"><div class="pc-buf"></div><div class="pc-fill"></div></div>
+            <button class="pc-btn pc-mute" aria-label="Mute"><svg class="i-vol" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4z"/></svg><svg class="i-muted" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4zm12.6 3 2.7-2.7-1.2-1.2-2.7 2.7-2.7-2.7-1.2 1.2 2.7 2.7-2.7 2.7 1.2 1.2 2.7-2.7 2.7 2.7 1.2-1.2z"/></svg></button>
+            <button class="pc-btn pc-fs" aria-label="Fullscreen"><svg viewBox="0 0 24 24"><path d="M4 9V4h5v2H6v3H4zm10-5h6v5h-2V6h-4V4zM6 15v3h3v2H4v-5h2zm12 0h2v5h-5v-2h3v-3z"/></svg></button>
+          </div>
+        </div>
         <button class="big-play" id="featPlay" aria-label="Play featured video"><svg viewBox="0 0 24 24"><path d="M7 4.5v15l13-7.5z"/></svg></button>
       </div>
       <div class="timeline" id="timeline">
@@ -153,8 +162,9 @@
     <div class="about-txt reveal">
       <div class="kicker"><i>05</i> About Me</div>
       <h2 class="display">Hi, I'm <em>Asfahan.</em></h2>
-      <p class="lead">I turn raw footage into content people actually stop and watch.</p>
-      <p>I've edited for wedding studios, fragrance brands, academies, restaurants, tech companies and podcasters. Each has its own style, pace and audience. My focus is strong hooks, beat-matched cuts, clean captions and color that sets the mood.</p>
+      <p class="lead">I'm a professional video editor with 3–4 years of experience in video editing.</p>
+      <p>I have worked on different types of projects and can handle editing tasks efficiently. I'm available for daily basis work and can deliver quality results according to your requirements.</p>
+      <p>I'd be happy to discuss your project and share my previous work.</p>
       <div class="apps">
         <div class="app pr">Pr<small>Premiere Pro</small></div>
         <div class="app ae">Ae<small>After Effects</small></div>
@@ -188,7 +198,16 @@
 <div class="lb" id="lb">
   <button class="x" id="lbClose" aria-label="Close">✕</button>
   <button class="nav-btn prev" id="lbPrev" aria-label="Previous">‹</button>
-  <video id="lbVideo" controls playsinline></video>
+  <div class="stage" id="lbStage">
+    <video id="lbVideo" playsinline controlslist="nodownload" disablepictureinpicture></video>
+    <div class="pc">
+      <button class="pc-btn pc-play" aria-label="Play/Pause"><svg class="i-play" viewBox="0 0 24 24"><path d="M7 4.5v15l13-7.5z"/></svg><svg class="i-pause" viewBox="0 0 24 24"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg></button>
+      <span class="pc-t">0:00 / 0:00</span>
+      <div class="pc-seek"><div class="pc-buf"></div><div class="pc-fill"></div></div>
+      <button class="pc-btn pc-mute" aria-label="Mute"><svg class="i-vol" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4z"/></svg><svg class="i-muted" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4zm12.6 3 2.7-2.7-1.2-1.2-2.7 2.7-2.7-2.7-1.2 1.2 2.7 2.7-2.7 2.7 1.2 1.2 2.7-2.7 2.7 2.7 1.2-1.2z"/></svg></button>
+      <button class="pc-btn pc-fs" aria-label="Fullscreen"><svg viewBox="0 0 24 24"><path d="M4 9V4h5v2H6v3H4zm10-5h6v5h-2V6h-4V4zM6 15v3h3v2H4v-5h2zm12 0h2v5h-5v-2h3v-3z"/></svg></button>
+    </div>
+  </div>
   <button class="nav-btn next" id="lbNext" aria-label="Next">›</button>
   <div class="cap"><h4 id="lbTitle"></h4><span id="lbSub"></span></div>
 </div>
