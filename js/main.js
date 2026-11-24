@@ -2,7 +2,7 @@
 const CONTACT = {
   whatsapp: "",   // e.g. "923001234567"  (country code, no +)
   email: "",      // e.g. "asfahan@email.com"
-  instagram: "",  // e.g. "asfahan.edits"
+  instagram: "fighterxpr0_yt",
   linkedin: ""    // full URL
 };
 
