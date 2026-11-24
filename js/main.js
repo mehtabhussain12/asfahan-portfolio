@@ -107,17 +107,18 @@ document.addEventListener("keydown",e=>{ if(!lb.classList.contains("open"))retur
   $(".wave").innerHTML = Array.from({length:150},(_,i)=>`<i style="height:${Math.round(18+70*Math.abs(Math.sin(i/5))*rnd()+10*rnd())}%"></i>`).join("");
   const start=()=>{ if(!vid.src) vid.src=enc(F.src); viewer.classList.add("started"); vid.controls=true; vid.play().catch(()=>{}); };
   $("#featPlay").onclick=start;
-  const L=62, R=18;
-  const place=()=>{ const p=vid.duration?vid.currentTime/vid.duration:0; ph.style.left=(L+p*(tl.clientWidth-L-R))+"px"; $("#featTC").textContent=tc(vid.currentTime||0); };
-  vid.addEventListener("timeupdate",place); addEventListener("resize",place);
-  tl.addEventListener("click",e=>{ const r=tl.getBoundingClientRect(); const p=Math.min(1,Math.max(0,(e.clientX-r.left-L)/(r.width-L-R)));
+  let L=62, R=18;
+  const measure=()=>{ const tb=tl.getBoundingClientRect(), cb=$("#clipsV").getBoundingClientRect(); L=cb.left-tb.left; R=tb.right-cb.right; };
+  const place=()=>{ measure(); const p=vid.duration?vid.currentTime/vid.duration:0; ph.style.left=(L+p*(tl.clientWidth-L-R))+"px"; $("#featTC").textContent=tc(vid.currentTime||0); };
+  vid.addEventListener("timeupdate",place); addEventListener("resize",place); requestAnimationFrame(place);
+  tl.addEventListener("click",e=>{ measure(); const r=tl.getBoundingClientRect(); const p=Math.min(1,Math.max(0,(e.clientX-r.left-L)/(r.width-L-R)));
     start(); const go=()=>{ vid.currentTime=p*vid.duration; place(); };
     vid.readyState>=1?go():vid.addEventListener("loadedmetadata",go,{once:true}); });
 })();
 
 /* ---------- work rows ---------- */
 function card(v,list,i){
-  const el=document.createElement("div"); el.className="card";
+  const el=document.createElement("div"); el.className="card "+fmtCls(v);
   el.style.aspectRatio=`${v.w}/${v.h}`;
   el.innerHTML=`<img loading="lazy" src="${v.thumb}" alt="${v.name}">
     <video muted loop playsinline preload="none"></video>
@@ -172,6 +173,11 @@ if(CONTACT.instagram) L.push(`<a class="btn btn-ghost" target="_blank" href="htt
 if(CONTACT.linkedin) L.push(`<a class="btn btn-ghost" target="_blank" href="${CONTACT.linkedin}">LinkedIn</a>`);
 if(!L.length) L.push(`<a class="btn btn-primary" href="#work">▶ Browse the Work</a>`);
 $("#contactLinks").innerHTML=L.join("");
+
+/* ---------- no download ---------- */
+document.querySelectorAll("#lbVideo,#featVideo").forEach(v=>{ v.setAttribute("controlsList","nodownload noplaybackrate noremoteplayback"); v.disablePictureInPicture=true; });
+document.addEventListener("contextmenu",e=>{ if(e.target.closest("video,.card,.viewer,.lb")) e.preventDefault(); });
+document.addEventListener("dragstart",e=>{ if(e.target.closest(".card,video")) e.preventDefault(); });
 
 /* ---------- nav + misc ---------- */
 const nav=$("#nav");
